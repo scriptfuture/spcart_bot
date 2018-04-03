@@ -8,7 +8,7 @@ Telegram-бот корзина товаров (калькулятор)
 1. Скопируйте проект: git clone https://github.com/scriptfuture/spcart_bot.git
 2. Получите токен у @BotFather
 3. Зайдите в папку проекта: cd spcart_bot
-4. Откройте файл spcart_bot.py с помошью текстовго редактора
+4. Откройте файл spcart_bot.py с помошью текстового редактора
 5. Замените строку <YOUR_TOKEN> на ваш токен полученный у @BotFather
 6. Установите вебсервер с MySQL (в  windows можно поставить, например, appserv.org)
 7. Создайте базу данных spcart_bot (например через PHPMyAdmin)
